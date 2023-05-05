@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@shadow-lad](github.com/shadow-lad)
+- 👋 Hi, I’m [@shadow-lad](https://github.com/shadow-lad)
 - 🤓 I’m a fullstack developer
 - 💪 I’m currently working at Amazon
 - 💻 My main languages are Java and JavaScript
